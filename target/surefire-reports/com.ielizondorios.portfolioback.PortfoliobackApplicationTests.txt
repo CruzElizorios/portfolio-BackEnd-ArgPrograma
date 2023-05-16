@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ielizondorios.portfolioback.PortfoliobackApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.626 s - in com.ielizondorios.portfolioback.PortfoliobackApplicationTests
