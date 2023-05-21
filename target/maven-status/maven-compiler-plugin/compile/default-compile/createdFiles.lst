@@ -14,17 +14,21 @@ com\ielizondorios\portfolioback\Entity\Educacion.class
 com\ielizondorios\portfolioback\Repository\REducacion.class
 com\ielizondorios\portfolioback\Service\Shys.class
 com\ielizondorios\portfolioback\Dto\dtoHys.class
+com\ielizondorios\portfolioback\Entity\Sobremi.class
 com\ielizondorios\portfolioback\Repository\IPersonaRepository.class
+com\ielizondorios\portfolioback\Repository\RSobremi.class
 com\ielizondorios\portfolioback\Security\MainSecurity.class
 com\ielizondorios\portfolioback\Security\Entity\UsuarioPrincipal.class
 com\ielizondorios\portfolioback\Security\jwt\JwtProvider.class
 com\ielizondorios\portfolioback\Service\SEducacion.class
 com\ielizondorios\portfolioback\Security\Service\UserDetailsImpl.class
 com\ielizondorios\portfolioback\Controller\CEducacion.class
+com\ielizondorios\portfolioback\Service\SSobremi.class
 com\ielizondorios\portfolioback\Security\Service\UsuarioService.class
 com\ielizondorios\portfolioback\Controller\PersonaController.class
 com\ielizondorios\portfolioback\Security\jwt\JwtEntryPoint.class
 com\ielizondorios\portfolioback\Security\Dto\JwtDto.class
+com\ielizondorios\portfolioback\Dto\DtoSobremi.class
 com\ielizondorios\portfolioback\Security\Controller\Mensaje.class
 com\ielizondorios\portfolioback\WebConfig.class
 com\ielizondorios\portfolioback\Dto\DtoEducacion.class
@@ -38,3 +42,4 @@ com\ielizondorios\portfolioback\Security\Enums\RolNombre.class
 com\ielizondorios\portfolioback\Security\Repository\iRolRepository.class
 com\ielizondorios\portfolioback\PortfoliobackApplication.class
 com\ielizondorios\portfolioback\Security\jwt\JwtTokenFilter.class
+com\ielizondorios\portfolioback\Controller\CSobremi.class

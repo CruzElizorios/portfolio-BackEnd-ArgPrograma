@@ -15,7 +15,10 @@ C:\Users\IÑAKI\Documents\argentina-programa\portfolio-BackEnd-ArgPrograma\src\m
 C:\Users\IÑAKI\Documents\argentina-programa\portfolio-BackEnd-ArgPrograma\src\main\java\com\ielizondorios\portfolioback\Security\Service\RolService.java
 C:\Users\IÑAKI\Documents\argentina-programa\portfolio-BackEnd-ArgPrograma\src\main\java\com\ielizondorios\portfolioback\Controller\CHys.java
 C:\Users\IÑAKI\Documents\argentina-programa\portfolio-BackEnd-ArgPrograma\src\main\java\com\ielizondorios\portfolioback\Dto\DtoExperiencia.java
+C:\Users\IÑAKI\Documents\argentina-programa\portfolio-BackEnd-ArgPrograma\src\main\java\com\ielizondorios\portfolioback\Dto\DtoSobremi.java
+C:\Users\IÑAKI\Documents\argentina-programa\portfolio-BackEnd-ArgPrograma\src\main\java\com\ielizondorios\portfolioback\Service\SSobremi.java
 C:\Users\IÑAKI\Documents\argentina-programa\portfolio-BackEnd-ArgPrograma\src\main\java\com\ielizondorios\portfolioback\Entity\Educacion.java
+C:\Users\IÑAKI\Documents\argentina-programa\portfolio-BackEnd-ArgPrograma\src\main\java\com\ielizondorios\portfolioback\Entity\Sobremi.java
 C:\Users\IÑAKI\Documents\argentina-programa\portfolio-BackEnd-ArgPrograma\src\main\java\com\ielizondorios\portfolioback\Security\Dto\LoginUsuario.java
 C:\Users\IÑAKI\Documents\argentina-programa\portfolio-BackEnd-ArgPrograma\src\main\java\com\ielizondorios\portfolioback\Entity\Experiencia.java
 C:\Users\IÑAKI\Documents\argentina-programa\portfolio-BackEnd-ArgPrograma\src\main\java\com\ielizondorios\portfolioback\Controller\CExperiencia.java
@@ -31,9 +34,11 @@ C:\Users\IÑAKI\Documents\argentina-programa\portfolio-BackEnd-ArgPrograma\src\m
 C:\Users\IÑAKI\Documents\argentina-programa\portfolio-BackEnd-ArgPrograma\src\main\java\com\ielizondorios\portfolioback\Security\Entity\Usuario.java
 C:\Users\IÑAKI\Documents\argentina-programa\portfolio-BackEnd-ArgPrograma\src\main\java\com\ielizondorios\portfolioback\Security\jwt\JwtTokenFilter.java
 C:\Users\IÑAKI\Documents\argentina-programa\portfolio-BackEnd-ArgPrograma\src\main\java\com\ielizondorios\portfolioback\Interface\IPersonaService.java
+C:\Users\IÑAKI\Documents\argentina-programa\portfolio-BackEnd-ArgPrograma\src\main\java\com\ielizondorios\portfolioback\Repository\RSobremi.java
 C:\Users\IÑAKI\Documents\argentina-programa\portfolio-BackEnd-ArgPrograma\src\main\java\com\ielizondorios\portfolioback\Security\Controller\Mensaje.java
 C:\Users\IÑAKI\Documents\argentina-programa\portfolio-BackEnd-ArgPrograma\src\main\java\com\ielizondorios\portfolioback\Security\Dto\NuevoUsuario.java
 C:\Users\IÑAKI\Documents\argentina-programa\portfolio-BackEnd-ArgPrograma\src\main\java\com\ielizondorios\portfolioback\Controller\CEducacion.java
+C:\Users\IÑAKI\Documents\argentina-programa\portfolio-BackEnd-ArgPrograma\src\main\java\com\ielizondorios\portfolioback\Controller\CSobremi.java
 C:\Users\IÑAKI\Documents\argentina-programa\portfolio-BackEnd-ArgPrograma\src\main\java\com\ielizondorios\portfolioback\Security\Entity\UsuarioPrincipal.java
 C:\Users\IÑAKI\Documents\argentina-programa\portfolio-BackEnd-ArgPrograma\src\main\java\com\ielizondorios\portfolioback\Security\jwt\JwtEntryPoint.java
 C:\Users\IÑAKI\Documents\argentina-programa\portfolio-BackEnd-ArgPrograma\src\main\java\com\ielizondorios\portfolioback\Security\jwt\JwtProvider.java

@@ -21,8 +21,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/educacion")
-@CrossOrigin(origins = "http://localhost:4200")
-//@CrossOrigin(origins = "https://portfoliofronticruz.web.app/")
+@CrossOrigin(origins = {"https://portfoliofronticruz.web.app","http://localhost:4200"})
 public class CEducacion {
        @Autowired
         SEducacion sEducacion;
@@ -83,6 +82,7 @@ public class CEducacion {
                 if (StringUtils.isBlank(dtoEducacion.getNombreEd())) {
                     return new ResponseEntity(new Mensaje("el nombre no puede estar vacio"), HttpStatus.BAD_REQUEST);
                 }
+                
                  //si lo anterior se cumple actualiza el objeto
                 Educacion educacion = sEducacion.getOne(id).get();
                 educacion.setNombreEd(dtoEducacion.getNombreEd());
